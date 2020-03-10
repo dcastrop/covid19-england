@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid19-england/static/css/main.d1b05096.chunk.css",
+    "main.js": "/covid19-england/static/js/main.dd5a17c7.chunk.js",
+    "main.js.map": "/covid19-england/static/js/main.dd5a17c7.chunk.js.map",
+    "runtime-main.js": "/covid19-england/static/js/runtime-main.48688ace.js",
+    "runtime-main.js.map": "/covid19-england/static/js/runtime-main.48688ace.js.map",
+    "static/js/2.bd80b0c5.chunk.js": "/covid19-england/static/js/2.bd80b0c5.chunk.js",
+    "static/js/2.bd80b0c5.chunk.js.map": "/covid19-england/static/js/2.bd80b0c5.chunk.js.map",
+    "index.html": "/covid19-england/index.html",
+    "precache-manifest.5a2c3dc60856320344cbe59a95382e3d.js": "/covid19-england/precache-manifest.5a2c3dc60856320344cbe59a95382e3d.js",
+    "service-worker.js": "/covid19-england/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/covid19-england/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bd80b0c5.chunk.js.LICENSE.txt": "/covid19-england/static/js/2.bd80b0c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48688ace.js",
+    "static/js/2.bd80b0c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.dd5a17c7.chunk.js"
+  ]
+}
